@@ -1,13 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
+function pepe() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+      <header >
+
         <p>
-          Edit src/App.js and save to reload.
+          Gola angelito
         </p>
         <a
           className="App-link"
@@ -15,11 +15,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          hola Learn React rama
+
         </a>
       </header>
     </div>
   );
 }
 
-export default App;
+export default pepe;
